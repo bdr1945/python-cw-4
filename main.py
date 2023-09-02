@@ -12,7 +12,7 @@
 
 
 
-# my_meal(food,drink)
+ my_meal(food,drink)
 def cube(number):
     return print(number **3)
 def by_three(number1):
