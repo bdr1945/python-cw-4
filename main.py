@@ -1,13 +1,13 @@
-# def name(name):
-#     print(f"my name is {name}")
-# myname = input("enter your name")
-# name(myname)
+ def name(name):
+     print(f"my name is {name}")
+ myname = input("enter your name")
+ name(myname)
 
 
-# def my_meal(food,drink):
-#     print(f"i like to eat {food} while drinking {drink}")
-# food = input("enter your favorite food")
-# drink = input("enter your favorite drink")
+ def my_meal(food,drink):
+     print(f"i like to eat {food} while drinking {drink}")
+ food = input("enter your favorite food")
+ drink = input("enter your favorite drink")
 
 
 
